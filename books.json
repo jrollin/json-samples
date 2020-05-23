@@ -1,0 +1,836 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 734,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "XPoAtkBR_1MC",
+   "etag": "ys4msq7kyG8",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/XPoAtkBR_1MC",
+   "volumeInfo": {
+    "title": "Fruits for the Future 3 - Safou (Dacryodes edulis)_Monograph",
+    "publisher": "Crops for the Future",
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=XPoAtkBR_1MC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=XPoAtkBR_1MC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "fr",
+    "previewLink": "http://books.google.fr/books?id=XPoAtkBR_1MC&printsec=frontcover&dq=future&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.fr/books?id=XPoAtkBR_1MC&dq=future&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Fruits_for_the_Future_3_Safou_Dacryodes.html?hl=&id=XPoAtkBR_1MC"
+   },
+   "saleInfo": {
+    "country": "FR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "FR",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=XPoAtkBR_1MC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "HOyQ0QtYibYC",
+   "etag": "RQTZ/H8sob4",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/HOyQ0QtYibYC",
+   "volumeInfo": {
+    "title": "L'Eve future",
+    "authors": [
+     "Auguste comte de Villiers de L'Isle-Adam",
+     "Auguste Villiers De L'isle-Adam"
+    ],
+    "publisher": "L'AGE D'HOMME",
+    "publishedDate": "1993",
+    "description": "Il s'agit de créer une femme artificielle, qui évite les inconvénients des femmes réelles. D'où un amour impossible pour une femme qui n'existe pas.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "2070387399"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9782070387397"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 441,
+    "printType": "BOOK",
+    "categories": [
+     "Fiction"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 1,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.0.2.0.preview.1",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=HOyQ0QtYibYC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=HOyQ0QtYibYC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "fr",
+    "previewLink": "http://books.google.fr/books?id=HOyQ0QtYibYC&pg=PA9&dq=future&hl=&cd=2&source=gbs_api",
+    "infoLink": "http://books.google.fr/books?id=HOyQ0QtYibYC&dq=future&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/L_Eve_future.html?hl=&id=HOyQ0QtYibYC"
+   },
+   "saleInfo": {
+    "country": "FR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "FR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=HOyQ0QtYibYC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Ainsi peut-on sommairement résumer L&#39;Eve \u003cb\u003efuture\u003c/b\u003e — au jugement de bien des \u003cbr\u003e\nconnaisseurs un des plus étranges et des plus beaux romans qui aient jamais \u003cbr\u003e\nété conçus, et un chef-d&#39;œuvre annonciateur de ce genre passionnant qui a \u003cbr\u003e\nhélas&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "skJuH1SxvwAC",
+   "etag": "E9xG6WQCJiU",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/skJuH1SxvwAC",
+   "volumeInfo": {
+    "title": "La vie future selon le Coran",
+    "authors": [
+     "Ṣubḥī Ṣāliḥ",
+     "Subhi Salih"
+    ],
+    "publisher": "Vrin",
+    "publishedDate": "1971",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "2711602303"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9782711602308"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 174,
+    "printType": "BOOK",
+    "categories": [
+     "Philosophy"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.0.2.0.preview.1",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=skJuH1SxvwAC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=skJuH1SxvwAC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "fr",
+    "previewLink": "http://books.google.fr/books?id=skJuH1SxvwAC&pg=PA154&dq=future&hl=&cd=3&source=gbs_api",
+    "infoLink": "http://books.google.fr/books?id=skJuH1SxvwAC&dq=future&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/La_vie_future_selon_le_Coran.html?hl=&id=skJuH1SxvwAC"
+   },
+   "saleInfo": {
+    "country": "FR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "FR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=skJuH1SxvwAC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "De même les Sunan d&#39;Abü Däuvüd, sans consacrer de paragraphe à l&#39;Enfer ni \u003cbr\u003e\nau Paradis, donne l&#39;ensemble des hadit sur la vie \u003cb\u003efuture\u003c/b\u003e dans plusieurs chapitres\u003cbr\u003e\n*, notamment : kitāb as-Sunna et kitāb al-Adab* ; bien qu&#39;il admette tout garant&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "ILBV3vg8tEEC",
+   "etag": "5AZaxQM788Q",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/ILBV3vg8tEEC",
+   "volumeInfo": {
+    "title": "Prolégomènes à toute métaphysique future qui pourra se présenter comme science",
+    "authors": [
+     "Immanuel Kant",
+     "Louis Guillermit"
+    ],
+    "publisher": "Vrin",
+    "publishedDate": "1993-01-01",
+    "description": "Mon intention est de convaincre tous ceux qui jugent bon de s'occuper de metaphysique qu'il est absolument necessaire qu'ils interrompent provisoirement leur travail, qu'ils considerent tout ce qui s'est fait a ce jour comme non avenu et qu'avant tout ils commencent par soulever la question de savoir si decidement une chose telle que la metaphysique est seulement possible. Si c'est une science, d'ou vient qu'elle ne peut s'accrediter de maniere universelle et durable, comme les autres sciences? Si ce n'en est pas une, comment se fait-il qu'elle ne cesse de tout faire pour avoir l'air d'une science? Donc, que ce soit pour demontrer qu'elle sait ou qu'elle ne sait pas, il faut une bonne fois etablir quelque chose de certain.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "2711611515"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9782711611515"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 185,
+    "printType": "BOOK",
+    "categories": [
+     "Philosophy"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.0.1.0.preview.1",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=ILBV3vg8tEEC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=ILBV3vg8tEEC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "fr",
+    "previewLink": "http://books.google.fr/books?id=ILBV3vg8tEEC&pg=PA107&dq=future&hl=&cd=4&source=gbs_api",
+    "infoLink": "http://books.google.fr/books?id=ILBV3vg8tEEC&dq=future&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Prol%C3%A9gom%C3%A8nes_%C3%A0_toute_m%C3%A9taphysique_fu.html?hl=&id=ILBV3vg8tEEC"
+   },
+   "saleInfo": {
+    "country": "FR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "FR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=ILBV3vg8tEEC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "_nziDAAAQBAJ",
+   "etag": "ddJZ0sxNLaQ",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/_nziDAAAQBAJ",
+   "volumeInfo": {
+    "title": "What the future",
+    "authors": [
+     "Mo/CDM"
+    ],
+    "publisher": "Fluide Glacial",
+    "publishedDate": "2016-08-24T00:00:00+02:00",
+    "description": "Si l'avenir n'est jamais écrit d'avance, il peut en revanche être dessiné. Droïdes domestiques trop humains, incivilités interdimensionnelles, clonages entrée de gamme, fins de vie provisoires... partagez les déboires de la famille FUTUR et découvrez en avant-première quel sera le monde de demain.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9782352078098"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "2352078091"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 72,
+    "printType": "BOOK",
+    "categories": [
+     "Comics & Graphic Novels"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.4.3.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=_nziDAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=_nziDAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "fr",
+    "previewLink": "http://books.google.fr/books?id=_nziDAAAQBAJ&printsec=frontcover&dq=future&hl=&cd=5&source=gbs_api",
+    "infoLink": "http://books.google.fr/books?id=_nziDAAAQBAJ&dq=future&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/What_the_future.html?hl=&id=_nziDAAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "FR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "FR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.fr/books/download/What_the_future-sample-epub.acsm?id=_nziDAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.fr/books/download/What_the_future-sample-pdf.acsm?id=_nziDAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=_nziDAAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Si l&#39;avenir n&#39;est jamais écrit d&#39;avance, il peut en revanche être dessiné."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "3JpIDwAAQBAJ",
+   "etag": "4nrag+3GBlc",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/3JpIDwAAQBAJ",
+   "volumeInfo": {
+    "title": "Now future",
+    "authors": [
+     "Benoît Delépine",
+     "Stan",
+     "Vince",
+     "Walter"
+    ],
+    "publisher": "Glénat BD",
+    "publishedDate": "2018-01-24",
+    "description": "Vous voulez voir de quoi sera fait demain ? Dans les années 2000, Benoît Delépine s’était associé à Stan & Vince pour publier 3 récits d’anticipation pour adulte : GodKiller, L’Imploseur et La Bombe. Ces 3 albums, aujourd’hui compilés dans l’ouvrage Now Future, nous plongent dans un avenir proche – fait de drogues, de dérives religieuses, de lubricité et d’ultra violence – formant le miroir de notre société en perdition, dans la tradition des grands récits d’anticipation dystopiques – Blade Runner en tête. Outre l’illustration de couverture inédite et des passages de La Bombe intégralement réécrits et redessinés, Now Future nous gratifie en fin d’ouvrage d’un cahier graphique comprenant, entre autres, les couvertures originales des albums.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9782331035937"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "2331035938"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 160,
+    "printType": "BOOK",
+    "categories": [
+     "Comics & Graphic Novels"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.2.2.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": true,
+     "containsImageBubbles": true,
+     "epubBubbleVersion": "b94dfdcb7e891932_A",
+     "imageBubbleVersion": "b94dfdcb7e891932_A"
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=3JpIDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=3JpIDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "fr",
+    "previewLink": "http://books.google.fr/books?id=3JpIDwAAQBAJ&pg=PT4&dq=future&hl=&cd=6&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=3JpIDwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://play.google.com/store/books/details?id=3JpIDwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "FR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 15.99,
+     "currencyCode": "EUR"
+    },
+    "retailPrice": {
+     "amount": 15.99,
+     "currencyCode": "EUR"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=3JpIDwAAQBAJ&rdid=book-3JpIDwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 1.599E7,
+       "currencyCode": "EUR"
+      },
+      "retailPrice": {
+       "amountInMicros": 1.599E7,
+       "currencyCode": "EUR"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "FR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.fr/books/download/Now_future-sample-epub.acsm?id=3JpIDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.fr/books/download/Now_future-sample-pdf.acsm?id=3JpIDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=3JpIDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "D E É F A O E Les trois bandes dessinées qui composent Now \u003cb\u003eFuture\u003c/b\u003e - L&#39;\u003cbr\u003e\nImploseur, La Bombe et Godkiller— ont été publiées il U a de ça quelques \u003cbr\u003e\nannées déjà, mais le titre de cette intégrale me semble encore plus pertinent \u003cbr\u003e\naujourd&#39;hui qu&#39;il&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "vLB2DwAAQBAJ",
+   "etag": "wK3YU8SM9ek",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/vLB2DwAAQBAJ",
+   "volumeInfo": {
+    "title": "L'Ève future ou l'Œuvre en question",
+    "authors": [
+     "Gwenhaël Ponnau"
+    ],
+    "publisher": "FeniXX",
+    "publishedDate": "2000-01-01T00:00:00+01:00",
+    "description": "«L'Eve future» (1886) semble se donner pour un livre qui réécrirait le livre des origines. Sur le mode de la fiction, il fait d'Edison, l'inventeur du phonographe, un sorcier des temps modernes dont l'oeuvre - la création d'une Eve nouvelle - n'est pas",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9782130685234"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "2130685234"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 176,
+    "printType": "BOOK",
+    "categories": [
+     "Literary Collections"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.2.1.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=vLB2DwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=vLB2DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "fr",
+    "previewLink": "http://books.google.fr/books?id=vLB2DwAAQBAJ&pg=PT187&dq=future&hl=&cd=7&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=vLB2DwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://play.google.com/store/books/details?id=vLB2DwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "FR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 8.99,
+     "currencyCode": "EUR"
+    },
+    "retailPrice": {
+     "amount": 8.99,
+     "currencyCode": "EUR"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=vLB2DwAAQBAJ&rdid=book-vLB2DwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 8990000.0,
+       "currencyCode": "EUR"
+      },
+      "retailPrice": {
+       "amountInMicros": 8990000.0,
+       "currencyCode": "EUR"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "FR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.fr/books/download/L_%C3%88ve_future_ou_l_%C5%92uvre_en_question-sample-epub.acsm?id=vLB2DwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.fr/books/download/L_%C3%88ve_future_ou_l_%C5%92uvre_en_question-sample-pdf.acsm?id=vLB2DwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=vLB2DwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Ouvrages collectifs : Jeering Dreamers : Essays on L&#39;Eve \u003cb\u003efuture\u003c/b\u003e, éd. John \u003cbr\u003e\nAnzalone, Amsterdam-Atlanta, Rodopi, 1996. Villiers de l&#39;Isle-Adam, Paris, \u003cbr\u003e\nSEDES, 1990 : deux contributions y sont consacrées à L&#39;Ève \u003cb\u003efuture\u003c/b\u003e : F. Cipriani, « \u003cbr\u003e\nLe mythe&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "mWyQAQAAQBAJ",
+   "etag": "ZrKpt+XUA5c",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/mWyQAQAAQBAJ",
+   "volumeInfo": {
+    "title": "too much future",
+    "subtitle": "le punk en République Démocratique Allemande",
+    "authors": [
+     "Michael Boehlke",
+     "Henryk Gericke"
+    ],
+    "publisher": "Editions Allia",
+    "publishedDate": "2011-03-17T00:00:00+01:00",
+    "description": "Un témoignage exceptionnel sur l'histoire des punks est-allemands",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9782844853950"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "2844853951"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 191,
+    "printType": "BOOK",
+    "categories": [
+     "Art"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.13.16.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=mWyQAQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=mWyQAQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "fr",
+    "previewLink": "http://books.google.fr/books?id=mWyQAQAAQBAJ&pg=PT218&dq=future&hl=&cd=8&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=mWyQAQAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://play.google.com/store/books/details?id=mWyQAQAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "FR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 7.49,
+     "currencyCode": "EUR"
+    },
+    "retailPrice": {
+     "amount": 7.49,
+     "currencyCode": "EUR"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=mWyQAQAAQBAJ&rdid=book-mWyQAQAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 7490000.0,
+       "currencyCode": "EUR"
+      },
+      "retailPrice": {
+       "amountInMicros": 7490000.0,
+       "currencyCode": "EUR"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "FR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.fr/books/download/too_much_future-sample-epub.acsm?id=mWyQAQAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.fr/books/download/too_much_future-sample-pdf.acsm?id=mWyQAQAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=mWyQAQAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Initiateur etcodirecteur du projet “too much \u003cb\u003efuture\u003c/b\u003e” (exposition, livreet \u003cbr\u003e\ndocumentaire). Néà BerlinEst en1964 . Formation initiale d&#39;ouvrier \u003cbr\u003e\nspécialisédans le montage industriel. Chanteur du groupe Planlos (19811983 ) \u003cbr\u003e\npuis batteur du groupe&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "inJJDgAAQBAJ",
+   "etag": "CWCC0KH97HU",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/inJJDgAAQBAJ",
+   "volumeInfo": {
+    "title": "Lettre à ma chère future épouse",
+    "authors": [
+     "Sewa Situ Prince-Agbodjan"
+    ],
+    "publisher": "XinXii",
+    "publishedDate": "2017-03-08",
+    "description": "Il m’a semblé étrange d’écrire cette lettre, sans même savoir si tu la liras un jour...J’image ce que tu pourras penser de cette lettre. C’est drôle mais Je sais que tu vas te demander pourquoi l’ai-je écrit sans qu’on ne c’est jamais rencontré ? Pourquoi n’es tu pas venu me le dire en face ? Je te comprends parfaitement et je valide tout ce que tu penseras de cette lettre. Mais où vais-je te l’envoyer ? Je n’ai pas ton adresse, ni ton numéro de téléphone. J’espère que cette lettre t’expliquera tout à un moment donné...A toi de le découvrir....",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9783961424825"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "3961424829"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 15,
+    "printType": "BOOK",
+    "categories": [
+     "Fiction"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.2.2.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=inJJDgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=inJJDgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "fr",
+    "previewLink": "http://books.google.fr/books?id=inJJDgAAQBAJ&pg=PT5&dq=future&hl=&cd=9&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=inJJDgAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://play.google.com/store/books/details?id=inJJDgAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "FR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 2.99,
+     "currencyCode": "EUR"
+    },
+    "retailPrice": {
+     "amount": 2.99,
+     "currencyCode": "EUR"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=inJJDgAAQBAJ&rdid=book-inJJDgAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 2990000.0,
+       "currencyCode": "EUR"
+      },
+      "retailPrice": {
+       "amountInMicros": 2990000.0,
+       "currencyCode": "EUR"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "FR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.fr/books/download/Lettre_%C3%A0_ma_ch%C3%A8re_future_%C3%A9pouse-sample-epub.acsm?id=inJJDgAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.fr/books/download/Lettre_%C3%A0_ma_ch%C3%A8re_future_%C3%A9pouse-sample-pdf.acsm?id=inJJDgAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=inJJDgAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "\u003cb\u003efuture\u003c/b\u003e. épouse. Sewa Situ PRINCEAGBODJAN Synopsis : Il m&#39;a semblé étrange \u003cbr\u003e\nd&#39;écrire cette lettre, sans même savoir si tu la liras un jour...J&#39;image ce que tu \u003cbr\u003e\npourras penser de cette lettre. C&#39;est drôle mais Je sais que tu vas te demander&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "FpaqQRn9wrgC",
+   "etag": "TbRUKlo7nWA",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/FpaqQRn9wrgC",
+   "volumeInfo": {
+    "title": "L'Eve Future",
+    "authors": [
+     "Comte de Auguste Villiers de L'Isle-Adam"
+    ],
+    "publisher": "Library of Alexandria",
+    "publishedDate": "1920",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9781465535115"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "146553511X"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": false
+    },
+    "pageCount": 475,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "0.2.2.0.preview.2",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=FpaqQRn9wrgC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=FpaqQRn9wrgC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "fr",
+    "previewLink": "http://books.google.fr/books?id=FpaqQRn9wrgC&pg=PT1&dq=future&hl=&cd=10&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=FpaqQRn9wrgC&source=gbs_api",
+    "canonicalVolumeLink": "https://play.google.com/store/books/details?id=FpaqQRn9wrgC"
+   },
+   "saleInfo": {
+    "country": "FR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 4.21,
+     "currencyCode": "EUR"
+    },
+    "retailPrice": {
+     "amount": 4.0,
+     "currencyCode": "EUR"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=FpaqQRn9wrgC&rdid=book-FpaqQRn9wrgC&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 4210000.0,
+       "currencyCode": "EUR"
+      },
+      "retailPrice": {
+       "amountInMicros": 4000000.0,
+       "currencyCode": "EUR"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "FR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.fr/books/download/L_Eve_Future-sample-epub.acsm?id=FpaqQRn9wrgC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=FpaqQRn9wrgC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Comte de Auguste Villiers de L&#39;Isle-Adam. L&#39;Eve \u003cb\u003eFuture\u003c/b\u003e comte de Auguste Villiers \u003cbr\u003e\nde L&#39;Isle-Adam AVIS AU LECTEUR Il me paraît de toute convenance de L&#39;Eve \u003cbr\u003e\n\u003cb\u003eFuture\u003c/b\u003e."
+   }
+  }
+ ]
+}
